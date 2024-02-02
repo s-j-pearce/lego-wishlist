@@ -1,0 +1,15 @@
+.NavBar--container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 80px;
+}
+
+button {
+  width: 70px;
+  height: 70px;
+  border: none;
+  border-radius: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
